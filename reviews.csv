@@ -1,0 +1,2 @@
+file,status,rows_parsed,rows_loaded,error_limit,errors_seen,first_error,first_error_line,first_error_character,first_error_column_name
+s3://dbtlearn/reviews.csv,LOADED,410284,410284,1,0,,,,
